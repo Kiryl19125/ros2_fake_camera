@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/jazzy/include/**",
+        "/home/kiryl/ros_ws/src/braitenberg/include/**",
+        "/home/kiryl/ros_ws/src/fake_camera_node/include/**",
+        "/home/kiryl/ros_ws/src/fake_sensors/include/**",
+        "/home/kiryl/ros_ws/src/pubsub_demo/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
